@@ -122,7 +122,7 @@ const ContactForm = () => {
                 
                 <div>
                   <label htmlFor="email" className="block text-sm font-semibold text-gray-700 mb-2">
-                    Email*
+                    Email *
                   </label>
                   <input
                     type="email"
