@@ -43,7 +43,7 @@ const IndustryUseCases = () => {
             'Acelera el proceso de facturación',
             'Ahorro de tiempo del personal administrativo'
           ],
-          value: 'Ahorra hasta 20 horas semanales del personal administrativo',
+          value: 'Ahorra muchas horas semanales del personal administrativo',
           whatItDoes: [
             'A partir del texto de la orden médica o formulario cargado, sugiere automáticamente los códigos de facturación (ej. CIE-10, nomencladores de prácticas)',
             'Completa formularios de facturación en sistemas internos o externos',
