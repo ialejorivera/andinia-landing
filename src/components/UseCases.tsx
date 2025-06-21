@@ -28,7 +28,7 @@ const UseCases = () => {
       benefits: "Reportes en tiempo real"
     }
   ];
-
+ {/* todo: Agregar productos que son aplicables para todas las industrias */}
   return (
     <section id="products" className="py-20 bg-gradient-to-br from-navy-900 to-navy-800 text-white">
       <div className="container mx-auto px-6">
