@@ -124,11 +124,11 @@ const IndustryUseCases = () => {
           id: 'contenido-redes-turismo',
           title: 'Posteá Sin Pensar',
           summary: 'Generador de contenido IA para redes sociales que ahorra tiempo al equipo de marketing y mejora la calidad del texto.',
-          fullDescription: 'La mayoría de estas empresas no tiene equipo de marketing formal. Suben cualquier cosa o repiten el mismo texto para todos los tours.',
+          fullDescription: 'Muchas empresas no tienen un equipo de marketing para mantener actualizadas sus redes, por eso facilitamos el proceso de creación de contenido.',
           benefits: [
             'Ahorra tiempo al equipo de marketing',
             'Mejora la calidad del texto',
-            'Mantiene el tono humano y natural (pero sin errores ni repeticiones)'
+            'Mantiene el tono humano y natural'
           ],
           value: 'Publicaciones listas para vender, sin escribir ni una línea',
           whatItDoes: [
