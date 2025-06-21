@@ -275,17 +275,18 @@ const IndustryUseCases = () => {
           benefits: [
             'Nunca más se olvida un service',
             'Mejora retención de clientes',
-            'Aumenta ingresos por postventa'
+            'Aumenta ingresos por postventa',
+            'Agenda turnos automáticamente'
           ],
           value: 'Mantiene a tus clientes siempre conectados con tu concesionaria',
           whatItDoes: [
-            'Sistema automático (no IA) para recordatorios de service, vencimiento de seguro, cambio de neumáticos',
-            'Programación por código, ideal para integración con su ERP o CRM',
+            'Sistema automático para envío de recordatorios de service, vencimiento de seguro, cambio de neumáticos',
+            'Turnero autommático por WhatsApp o Web Chat'
             'Integración con el chatbot para seguimiento de clientes o servicios'
           ],
           whatItDoesnt: [
-            'No diagnostica problemas mecánicos',
-            'No programa automáticamente los turnos (solo recuerda)'
+            'No genera presupuestos automáticos',
+            'No atiende consultas sobre problemas mecánicos'
           ],
           requirements: [
             'Base de datos de clientes con información de vehículos',
