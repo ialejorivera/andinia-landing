@@ -57,7 +57,7 @@ const ContactForm = () => {
               Empezá a automatizar hoy
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Agendá una llamada gratuita de 30 minutos y descubrí cómo podemos transformar tu negocio
+              Agendá una llamada gratuita o reunión prescencial y descubrí cómo podemos transformar tu negocio
             </p>
           </div>
           
