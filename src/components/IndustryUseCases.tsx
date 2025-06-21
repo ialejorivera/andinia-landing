@@ -167,7 +167,7 @@ const IndustryUseCases = () => {
           whatItDoes: [
             'Recibe al usuario en WhatsApp, web o redes',
             'Le hace preguntas útiles para perfilarlo: qué busca, zona, presupuesto, urgencia, tipo de propiedad',
-            'Guarda esa info (¡bien masticada!) para el equipo comercial',
+            'Guarda esa info ya procesada para el equipo comercial',
             'Mientras tanto, le sugiere propiedades compatibles (recomendador personalizado)',
             'Finalmente, agenda una llamada o una visita, y da seguimiento automático si no responde'
           ],
