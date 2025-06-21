@@ -64,7 +64,7 @@ const ContactForm = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             {/* Beneficios de la llamada */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-bold text-navy-900 mb-6">En esta llamada vas a obtener:</h3>
+              <h3 className="text-2xl font-bold text-navy-900 mb-6">Podrás obtener:</h3>
               <div className="space-y-4">
                 <div className="flex items-start space-x-4">
                   <CheckCircle className="h-6 w-6 text-teal-500 mt-1 flex-shrink-0" />
