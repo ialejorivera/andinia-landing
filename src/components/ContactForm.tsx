@@ -5,7 +5,8 @@ const ContactForm = () => {
   const [formData, setFormData] = useState({
     name: '',
     company: '',
-    email: ''
+    email: '',
+    phone: ''
   });
   const [isSubmitted, setIsSubmitted] = useState(false);
 
@@ -18,7 +19,7 @@ const ContactForm = () => {
     // Reset después de 3 segundos
     setTimeout(() => {
       setIsSubmitted(false);
-      setFormData({ name: '', company: '', email: '' });
+      setFormData({ name: '', company: '', email: '', phone: '' });
     }, 3000);
   };
 
@@ -113,6 +114,22 @@ const ContactForm = () => {
                     onChange={handleChange}
                     className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-teal-500 focus:border-transparent transition-colors"
                     placeholder="Mi Empresa SRL"
+                  />
+                </div>
+                
+                <div>
+                  <label htmlFor="phone" className="block text-sm font-semibold text-gray-700 mb-2">
+                    Teléfono *
+                  </label>
+                  <input
+                    type="tel"
+                    id="phone"
+                    name="phone"
+                    required
+                    value={formData.phone}
+                    onChange={handleChange}
+                    className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-teal-500 focus:border-transparent transition-colors"
+                    placeholder="2995556677"
                   />
                 </div>
                 
