@@ -220,11 +220,11 @@ const IndustryUseCases = () => {
           whatItDoes: [
             'Permite buscar por texto libre: "Quiero algo en zona centro con patio y cochera, hasta 300 mil dólares"',
             'Puede estar embebido en el sitio o ser de uso interno para asesores comerciales',
-            'Devuelve las mejores coincidencias, incluso si no matchean exactamente con los filtros clásicos'
+            'Devuelve las mejores coincidencias'
           ],
           whatItDoesnt: [
-            'No reemplaza completamente los filtros tradicionales',
-            'No genera nuevas propiedades'
+            'No reemplaza tu sistema de búsquedas actual',
+            'No reemplaza al agente inmobiliario, siempre va a existir la posibilidad de contactar a un humano'
           ],
           requirements: [
             'Se entrena un sistema RAG (retrieval augmented generation) con las propiedades disponibles',
