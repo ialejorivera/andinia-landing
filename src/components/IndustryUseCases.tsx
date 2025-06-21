@@ -218,7 +218,7 @@ const IndustryUseCases = () => {
           ],
           value: 'Búsquedas más intuitivas y resultados más precisos',
           whatItDoes: [
-            'Permite buscar por texto libre: "Quiero algo en zona sur con patio y cochera, hasta 100 mil dólares"',
+            'Permite buscar por texto libre: "Quiero algo en zona sur con patio y cochera, hasta 200 mil dólares"',
             'Puede estar embebido en el sitio o ser de uso interno para asesores comerciales',
             'Devuelve las mejores coincidencias, incluso si no matchean exactamente con los filtros clásicos'
           ],
