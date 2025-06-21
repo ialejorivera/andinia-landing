@@ -30,7 +30,7 @@ const UseCases = () => {
   ];
 
   return (
-    <section id="use-cases" className="py-20 bg-gradient-to-br from-navy-900 to-navy-800 text-white">
+    <section id="products" className="py-20 bg-gradient-to-br from-navy-900 to-navy-800 text-white">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-bold mb-6">
