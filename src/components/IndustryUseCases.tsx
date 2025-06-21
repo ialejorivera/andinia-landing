@@ -245,11 +245,11 @@ const IndustryUseCases = () => {
           summary: 'Asistente de ventas omnicanal disponible 24/7 que atiende consultas, sugiere vehículos y genera leads calificados.',
           fullDescription: 'Chatbot especializado en ventas automotrices que maneja todo el proceso desde la consulta inicial hasta el agendado del test drive.',
           benefits: [
-            'Conversaciones 24/7, engancha al cliente',
-            'Genera leads mejor cualificados',
+            'Conversaciones 24/7, tus clientes se sacan dudas rápidamente',
+            'Diferencia a tu empresa con las respuestas automáticas',
             'Reduce carga del equipo de ventas'
           ],
-          value: 'Engancha al cliente desde el primer contacto',
+          value: 'Atrae y afianza al cliente desde el primer contacto',
           whatItDoes: [
             'Chatbot disponible en WhatsApp, web, Instagram, Facebook',
             'Atiende consultas: modelos disponibles, opciones de financiamiento, precios, promociones',
@@ -259,7 +259,7 @@ const IndustryUseCases = () => {
           ],
           whatItDoesnt: [
             'No maneja transacciones financieras',
-            'No reemplaza el test drive presencial'
+            'No cierra ventas ni reemplaza a tus mejores vendedores'
           ],
           requirements: [
             'Catálogo de vehículos actualizado',
