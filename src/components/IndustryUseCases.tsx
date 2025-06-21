@@ -39,7 +39,7 @@ const IndustryUseCases = () => {
           fullDescription: 'Evita errores humanos al cargar códigos médicos. Acelera el proceso de facturación y minimiza rechazos de obras sociales.',
           benefits: [
             'Elimina errores de codificación médica',
-            'Reduce rechazos de obras sociales en 80%',
+            'Reduce rechazos de obras sociales',
             'Acelera el proceso de facturación 10x',
             'Ahorro de tiempo del personal administrativo'
           ],
