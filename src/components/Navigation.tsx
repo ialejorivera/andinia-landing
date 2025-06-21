@@ -31,6 +31,7 @@ const Navigation = () => {
     { label: 'Qué es AndinIA', id: 'about' },
     { label: 'Proceso', id: 'process' },
     { label: 'Productos', id: 'products' },
+    { label: 'Casos de uso', id: 'use-cases' },
     { label: 'Equipo', id: 'team' },
     { label: 'Contacto', id: 'contact' }
   ];
