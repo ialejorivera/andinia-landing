@@ -40,7 +40,7 @@ const IndustryUseCases = () => {
           benefits: [
             'Elimina errores de codificación médica',
             'Reduce rechazos de obras sociales',
-            'Acelera el proceso de facturación 10x',
+            'Acelera el proceso de facturación',
             'Ahorro de tiempo del personal administrativo'
           ],
           value: 'Ahorra hasta 20 horas semanales del personal administrativo',
