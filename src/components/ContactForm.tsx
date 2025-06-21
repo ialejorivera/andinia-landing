@@ -137,11 +137,11 @@ const ContactForm = () => {
                   className="w-full bg-gradient-to-r from-teal-500 to-blue-600 hover:from-teal-600 hover:to-blue-700 text-white font-bold py-4 px-6 rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center justify-center space-x-3"
                 >
                   <Calendar className="h-6 w-6" />
-                  <span>Agendá tu llamada gratuita</span>
+                  <span>Agendá tu reunión gratuita</span>
                 </button>
                 
                 <p className="text-xs text-gray-500 text-center">
-                  Sin compromiso. Llamada de 30 minutos máximo.
+                  Te llamará nuestra agente de IA para coordinar un turno 😉
                 </p>
               </form>
             </div>
