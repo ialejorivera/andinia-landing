@@ -68,7 +68,7 @@ const IndustryUseCases = () => {
             'Mejora de experiencia del paciente (respuesta instantánea)',
             'Trazabilidad de preguntas frecuentes para mejorar servicios'
           ],
-          value: 'Resuelve parte de las consultas sin intervención humana',
+          value: 'Resuelve gran parte de las consultas sin intervención humana',
           whatItDoes: [
             'Atiende consultas frecuentes: horarios, ubicación, coberturas aceptadas, formas de pago',
             'Informa disponibilidad y guía al paciente para sacar turnos',
