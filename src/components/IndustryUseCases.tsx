@@ -108,7 +108,8 @@ const IndustryUseCases = () => {
             'Presenta al cliente una pequeña encuesta o conversación guiada (WhatsApp, web, mail)',
             'Pregunta edad, cantidad de personas, presupuesto, intereses (naturaleza, aventura, relax)',
             'Pregunta preferencias (auto propio, caminatas, hotel o cabaña...)',
-            'A partir de eso, recomienda 2 o 3 tours ajustados al perfil, con links y fotos'
+            'A partir de eso, recomienda 2 o 3 tours ajustados al perfil, con links y fotos',
+            'Siempre que se requiera va a poder contactar un represante humano para cerrar la conversión'
           ],
           whatItDoesnt: [
             'No genera rutas GPS ni itinerarios automáticos (aunque se podría escalar a eso)',
