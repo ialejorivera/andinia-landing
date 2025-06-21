@@ -281,7 +281,7 @@ const IndustryUseCases = () => {
           value: 'Mantiene a tus clientes siempre conectados con tu concesionaria',
           whatItDoes: [
             'Sistema automático para envío de recordatorios de service, vencimiento de seguro, cambio de neumáticos',
-            'Turnero autommático por WhatsApp o Web Chat'
+            'Turnero autommático por WhatsApp o Web Chat',
             'Integración con el chatbot para seguimiento de clientes o servicios'
           ],
           whatItDoesnt: [
