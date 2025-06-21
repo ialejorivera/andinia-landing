@@ -209,7 +209,7 @@ const IndustryUseCases = () => {
         {
           id: 'buscador-inteligente',
           title: 'Buscador Inteligente',
-          summary: 'Búsqueda semántica de propiedades que permite buscar por texto libre en lugar de filtros tradicionales.',
+          summary: 'Búsqueda de propiedades usando lenguaje cotidiano en lugar de filtros tradicionales.',
           fullDescription: 'Sistema de búsqueda que entiende el lenguaje natural y encuentra propiedades que los filtros tradicionales no detectarían.',
           benefits: [
             'Facilita muchísimo el trabajo del vendedor',
