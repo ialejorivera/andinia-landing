@@ -76,10 +76,6 @@ const ContactForm = () => {
                 </div>
                 <div className="flex items-start space-x-4">
                   <CheckCircle className="h-6 w-6 text-teal-500 mt-1 flex-shrink-0" />
-                  <p className="text-gray-700">Estimación de ahorro de tiempo y costos</p>
-                </div>
-                <div className="flex items-start space-x-4">
-                  <CheckCircle className="h-6 w-6 text-teal-500 mt-1 flex-shrink-0" />
                   <p className="text-gray-700">Roadmap de implementación sin compromiso</p>
                 </div>
               </div>
